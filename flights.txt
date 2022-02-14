@@ -1,0 +1,6 @@
+"Van Nuys" "Aspen-Pitkin County"
+"Phoenix Sky Harbor Intl" "Wichita Eisenhower"
+"Montreal-Trudeau" "Phoenix Sky Harbor Intl"
+"Teterboro" "Montreal-Trudeau"
+"Washington Dulles Intl" "Palm Beach Intl"
+"Raleigh-Durham Intl" "Washington Dulles Intl"
